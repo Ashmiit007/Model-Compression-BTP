@@ -9,3 +9,7 @@ Knowledge Distillation: Transferring knowledge from a larger, pre-trained model 
 Low-Rank Factorization: Decomposing weight matrices to enhance model efficiency.
 Model Sparsity & Clustering: Encouraging sparse representations and weight clustering for compression.
 While we aim to leverage existing methodologies, we also seek to introduce novel optimizations to further push the boundaries of compression without compromising the model’s integrity. This project serves as an evolving exploration of the trade-offs between compression ratios, computational cost, and model fidelity in real-world applications.
+
+
+
+https://colab.research.google.com/drive/14TaQrVO-ILD2KqxAeB5LYggY_cMkWR_5?usp=sharing
